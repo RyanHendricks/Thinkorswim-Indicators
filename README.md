@@ -12,11 +12,14 @@ Standard average daily range calculation and plot
 
 <hr>
 
-## VolumeVsAverage
+## VolumeVsAverageST
 
 Displays volume for the day compared to the average volume for the past month, past 3 months, past 6 months, and past year.
 
 ![volvsaverage](./img/volvsaverage.png)
+
+Use VolumeVsAverageLT for longer periods for average volume.
+
 <hr>
 
 
